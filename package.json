@@ -1,8 +1,9 @@
 {
   "name": "sample-express",
   "version": "1.0.0",
-  "description": "sample express server",
+  "description": "The Complete Developer: sample express server",
   "license": "ISC",
+  "author": "Martin Krause",
   "type":"module",
   "dependencies": {
     "express": "^4.19.2",
